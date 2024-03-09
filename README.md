@@ -7,4 +7,7 @@ the intricacies of building a robust backend, dynamic frontend, and seamless
 integration, ensuring optimal performance and scalability. Whether you're a novice or 
 seasoned developer, this tutorial empowers you to unleash your creativity
 and build a next-level movies app that captivates audiences and delivers the ultimate user experience.
-![download (26)](https://github.com/Abdrhmaan/MovieApplication/assets/144273475/c22a754f-d731-420e-a7c4-3a7fb5f025f2)
+![Uploading 1.png…]()
+
+
+![Uploading 3.png…]()
